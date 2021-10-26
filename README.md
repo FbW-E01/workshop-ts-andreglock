@@ -14,5 +14,8 @@
     - After you are done, explore https://www.omdbapi.com and build something with that using your own backend as a proxy
     - *NOTE* I did not test the API, so... yeah.
 5. Examine your computer setup; how do you organize projects and tools. Is it working for you? Which projects do you keep on your computer and why?
+    - I save all the projects from class in my computer. All of them stay in one folder called *WD21E01*.
+    - After a few days, or when I judge the project to not be current anymore, I move into a subfolder called *archive*.
+    - My own projects that have any usability are all uploaded on GitHub
 6. Examine your git account; go through what projects do you have there
 7. **BONUS** Dive deeper into JavaScript: Research what is the event loop
